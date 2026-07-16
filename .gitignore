@@ -1,0 +1,9 @@
+bin/
+obj/
+artifacts/
+.vs/
+*.user
+.reasonix/
+*.exe
+*.dll
+*.pdb
