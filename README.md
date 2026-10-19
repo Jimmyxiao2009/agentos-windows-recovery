@@ -1,3 +1,5 @@
+> **Archived:** this project is no longer maintained. 本项目已暂停维护并归档。
+
 # AgentOS Windows Recovery Runtime
 
 This repository contains the first runnable Windows transaction-recovery slice of AgentOS.
